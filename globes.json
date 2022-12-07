@@ -1,0 +1,364 @@
+{
+    "globes":[
+        {
+            "id":1,
+            "name":"Illuminated Globe",
+            "author":"Alexander S. Alexander",
+            "folder":"alexander",
+            "image":"alexander.png",
+            "date":"1924",
+            "full_images":["alexander_1.jpg","alexander_2.jpg","alexander_3.jpg","alexander_4.jpg"],
+            "link":"https://patents.google.com/patent/US1515135A/en?q=illuminated+globe&inventor=alexander+s+alexander&oq=illuminated+globe+alexander+s+alexander"
+        },
+        {
+            "id":2,
+            "name":"World Novelty",
+            "author":"Leon Amdur",
+            "folder":"amdur",
+            "image":"amdur.png",
+            "date":"1939",
+            "full_images":["amdur_1.jpg"],
+            "link":"https://patents.google.com/patent/US2175239A/en?q=world+novelty&inventor=leon+amdur&oq=leon+amdur+world+novelty"
+        },
+        {
+            "id":3,
+            "name":"Improvement in Terrestrial Globes",
+            "author":"George P. Clarke",
+            "folder":"clarke",
+            "image":"clarke.png",
+            "date":"1867",
+            "full_images":["clarke_1.jpg","clarke_1.jpg"],
+            "link":"https://patents.google.com/patent/US69408A/en?q=clarke+improvement+in+%22terrestrial+globes%22&oq=clarke+improvement+in+%22terrestrial+globes%22"
+        },
+        {
+            "id":4,
+            "name":"Tellurian",
+            "author":"Thomas Costello",
+            "folder":"costello",
+            "image":"costello.png",
+            "date":"1900",
+            "full_images":["costello_1.jpg","costello_1.jpg","costello_3.jpg"],
+            "link":"https://patents.google.com/patent/US69408A/en?q=clarke+improvement+in+%22terrestrial+globes%22&oq=clarke+improvement+in+%22terrestrial+globes%22"
+        },
+        {
+            "id":5,
+            "name":"Educational Toy",
+            "author":"Steve Damoff",
+            "folder":"damoff",
+            "image":"damoff.png",           
+            "date":"1928",
+            "full_images":["damoff_1.jpg","damoff_2.jpg"],
+            "link":"https://patents.google.com/patent/US1659810A/en?q=educational+toy&inventor=steve+damoff&oq=steve+damoff+educational+toy"        
+        },
+        {
+            "id":6,
+            "name":"Educational Apparatus",
+            "author":"Charlotte Flood",
+            "folder":"flood",
+            "image":"flood.png",           
+            "date":"1928",
+            "full_images":["flood_1.jpg"],
+            "link":"https://patents.google.com/patent/US1523188A/en?q=%22Educational+Apparatus%22+charlotte+flood&oq=%22Educational+Apparatus%22+charlotte+flood"        
+        },
+        {
+            "id":6,
+            "name":"Folding School-Globe",
+            "author":"John H. French",
+            "folder":"french",
+            "image":"french.png",           
+            "date":"1887",
+            "full_images":["french_1.jpg","french_2.jpg"],
+            "link":"https://patents.google.com/patent/US374789A/en?q=john+french+%22folding+school-globe%22&oq=john+french+%22folding+school-globe%22"        
+        },
+        {
+            "id":7,
+            "name":"Geographical Apparatus",
+            "author":"Marshall B. Gardner",
+            "folder":"gardner",
+            "image":"gardner.png",           
+            "date":"1914",
+            "full_images":["gardner_1.jpg"],
+            "link":"https://patents.google.com/patent/US1096102A/en?q=%22Geographical+Apparatus%22+marshall+gardner&oq=%22Geographical+Apparatus%22+marshall+gardner"        
+        },
+        {
+            "id":8,
+            "name":"Educational Globe",
+            "author":"Olid D. Gray",
+            "folder":"gray",
+            "image":"gray.png",           
+            "date":"1891",
+            "full_images":["gray_1.jpg"],
+            "link":"https://patents.google.com/patent/US1096102A/en?q=%22Geographical+Apparatus%22+marshall+gardner&oq=%22Geographical+Apparatus%22+marshall+gardner"        
+        },
+        {
+            "id":9,
+            "name":"Inflatable Globe",
+            "author":"Ellen Hendry",
+            "folder":"hendry",
+            "image":"hendry.png",           
+            "date":"1921",
+            "full_images":["hendry_1.jpg","hendry_2.jpg"],
+            "link":"https://patents.google.com/patent/US1383115A/en?q=%22inflatable+globe%22+ellen+hendry&oq=%22inflatable+globe%22+ellen+hendry"        
+        },
+        {
+            "id":10 ,
+            "name":"Geographical Globe",
+            "author":"Isaac and Mary Ann Hodgson",
+            "folder":"hodgson",
+            "image":"hodgson.png",           
+            "date":"1892",
+            "full_images":["hodgson_1.jpg","hodgson_2.jpg"],
+            "link":"https://patents.google.com/patent/US519061A/en?q=%22geographical+globe%22+hodgson&oq=%22geographical+globe%22+hodgson"        
+        },
+        {
+            "id":11,
+            "name":"Apparatus for Teaching Physical Geography",
+            "author":"Thomas G. Howden",
+            "folder":"howden",
+            "image":"howden.png",
+            "date":"1935",
+            "full_images":["howden_1.jpg"],
+            "link":"https://patents.google.com/patent/US1986576A/en?q=apparatus+for+teaching+physical+geography&assignee=howden&oq=apparatus+for+teaching+physical+geography+howden"        
+        },
+        {
+            "id":12,
+            "name":"Globe",
+            "author":"Thomas R. Johnston",
+            "folder":"johnston",
+            "image":"johnston.png",
+            "date":"1891",
+            "full_images":["johnston_1.jpg","johnston_2.jpg","johnston_3.jpg"],
+            "link":"Link to full patent does not exist"        
+        },
+        {
+            "id":13,
+            "name":"Globe and Method of Making Same",
+            "author":"Thomas Jones",
+            "folder":"jones",
+            "image":"jones.png",
+            "date":"1896",
+            "full_images":["jones_1.jpg","jones_2.jpg"],
+            "link":"Link to full patent does not exist"        
+        },
+        {
+            "id":14,
+            "name":"Terrestrial Globe",
+            "author":"Torao Kamei and Kuwata Fukutaro",
+            "folder":"kamei_kuwata",
+            "image":"kamei_kuwata.png",
+            "date":"1928",
+            "full_images":["kamei_kuwata_1.jpg"],
+            "link":"https://patents.google.com/patent/US1740022A/en?assignee=Torao+Kamei&oq=Torao+Kamei"        
+        },
+        {
+            "id":15,
+            "name":"Puzzle",
+            "author":"Mary E. Bradley Lane",
+            "folder":"lane",
+            "image":"lane.png",
+            "date":"1897",
+            "full_images":["lane_1.jpg"],
+            "link":"https://patents.google.com/patent/US586339A/en?q=mary+bradley+lane+puzzle&oq=mary+bradley+lane+puzzle"
+        },
+        {
+            "id":16,
+            "name":"Educational Toy",
+            "author":"Jewel Lewis",
+            "folder":"lewis",
+            "image":"lewis.png",
+            "date":"1916",
+            "full_images":["lewis_1.jpg"],
+            "link":"https://patents.google.com/patent/US1206867A/en?q=%22Educational+Toy%22+jewel+lewis&oq=%22Educational+Toy%22+jewel+lewis"        
+        },
+        {
+            "id":17,
+            "name":"Collapsible Globe",
+            "author":"Sarah Lyman",
+            "folder":"lyman",
+            "image":"lyman.png",
+            "date":"1921",
+            "full_images":["lyman_1.jpg","lyman_2.jpg"],
+            "link":"Link to full patent does not exist"        
+        },
+        {
+            "id":18,
+            "name":"Microscopic Revolving Map",
+            "author":"Charles A. Marks",
+            "folder":"marks",
+            "image":"marks.png",
+            "date":"1940",
+            "full_images":["marks_1.jpg"],
+            "link":"https://patents.google.com/patent/US2187947A/en?q=%22Microscopic+Revolving+Map%22&oq=%22Microscopic+Revolving+Map%22"        
+        },
+        {
+            "id":19,
+            "name":"Educational Device",
+            "author":"Stephen C. Matthews",
+            "folder":"matthews",
+            "image":"matthews.png",
+            "date":"1913",
+            "full_images":["matthews_1.jpg","matthews_2.jpg"],
+            "link":"https://patents.google.com/patent/US1071358A/en?q=%22Educational+Device%22&inventor=stephen+matthews&oq=%22Educational+Device%22+stephen+matthews"        
+        },
+        {
+            "id":20,
+            "name":"Sectional Map Apparatus",
+            "author":"George C. McClintock",
+            "folder":"mcclintock",
+            "image":"mcclintock.png",
+            "date":"1927",
+            "full_images":["mcclintock_1.jpg"],
+            "link":"https://patents.google.com/patent/US1629582A/en?q=%22Sectional+Map+Apparatus%22+mcclintock&oq=%22Sectional+Map+Apparatus%22+mcclintock"        
+        },
+        {
+            "id":21,
+            "name":"Educational Device",
+            "author":"Jacob Meyerhoff",
+            "folder":"meyerhoff",
+            "image":"meyerhoff.png",
+            "date":"1931",
+            "full_images":["meyerhoff_1.jpg","meyerhoff_2.jpg","meyerhoff_3.jpg","meyerhoff_4.jpg"],
+            "link":"https://patents.google.com/patent/US1812110A/en?q=%22Educational+Device%22&assignee=jacob+meyerhoff&oq=%22Educational+Device%22+jacob+meyerhoff"        
+        },
+        {
+            "id":22,
+            "name":"Globe",
+            "author":"Frank P. Montgomery",
+            "folder":"montgomery",
+            "image":"montgomery.png",
+            "date":"1885",
+            "full_images":["montgomery_1.jpg"],
+            "link":"https://patents.google.com/patent/US313752A/en?q=%22Frank+P.+Montgomery%22+globe&oq=%22Frank+P.+Montgomery%22+globe"        
+        },
+        {
+            "id":23,
+            "name":"Cosmosarium",
+            "author":"Rogert V. Morse",
+            "folder":"morse",
+            "image":"morse.png",
+            "date":"1938",
+            "full_images":["morse_1.jpg","morse_2.jpg","morse_3.jpg"],
+            "link":"https://patents.google.com/patent/US2140326A/en?q=%22Cosmosarium%22&oq=%22Cosmosarium%22+"        
+        },
+        {
+            "id":24,
+            "name":"Globe Cabinet",
+            "author":"Thomas Nassos",
+            "folder":"nassos",
+            "image":"nassos.png",
+            "date":"1940",
+            "full_images":["nassos_1.jpg","nassos_2.jpg"],
+            "link":"https://patents.google.com/patent/US2218212A/en?q=%22Globe+Cabinet%22+nassos&oq=%22Globe+Cabinet%22+nassos"        
+        },
+        {
+            "id":25,
+            "name":"Terrestrial Globe",
+            "author":"Kunimitsu Ohno",
+            "folder":"ohno",
+            "image":"ohno.png",
+            "date":"1940",
+            "full_images":["ohno_1.jpg","ohno_2.jpg"],
+            "link":"https://patents.google.com/patent/US1926787A/en?assignee=%22Kunimitsu+Ohno%22&oq=%22Kunimitsu+Ohno%22+"        
+        },
+        {
+            "id":26,
+            "name":"Educational Apparatus for Teachers",
+            "author":"Matthew M. Parr",
+            "folder":"parr",
+            "image":"parr.png",
+            "date":"1898",
+            "full_images":["parr_1.jpg","parr_2.jpg"],
+            "link":"https://patents.google.com/patent/US600234A/en?q=%22Educational+Apparatus+for+Teachers%22+parr&oq=%22Educational+Apparatus+for+Teachers%22+parr"        
+        },
+        {
+            "id":27,
+            "name":"Geographical Educator",
+            "author":"Charles B. Roberts",
+            "folder":"roberts",
+            "image":"roberts.png",
+            "date":"1929",
+            "full_images":["roberts_1.jpg"],
+            "link":"https://patents.google.com/patent/US1739861A/en?q=%22Geographical+Educator%22&inventor=charles+roberts&oq=%22Geographical+Educator%22+charles+roberts"        
+        },
+        {
+            "id":28,
+            "name":"Chronological Instrument",
+            "author":"Herman E. Schulse",
+            "folder":"schulse",
+            "image":"schulse.png",
+            "date":"1934",
+            "full_images":["schulse_1.jpg","schulse_2.jpg","schulse_3.jpg","schulse_4.jpg"],
+            "link":"https://patents.google.com/patent/US1959601A/en?q=%22Chronological+Instrument%22&oq=%22Chronological+Instrument%22"        
+        },
+        {
+            "id":29,
+            "name":"Apparatus for Illustrating Conic Sections and the Lines of the Globe",
+            "author":"Forrest Shepherd",
+            "folder":"shepherd",
+            "image":"shepherd.png",
+            "date":"1857",
+            "full_images":["shepherd_1.jpg"],
+            "link":"https://patents.google.com/patent/US18931A/en?q=%22Apparatus+for+Illustrating+Conic+Sections+and+the+Lines+of+the+Globe%22&oq=%22Apparatus+for+Illustrating+Conic+Sections+and+the+Lines+of+the+Globe%22"        
+        },
+        {
+            "id":30,
+            "name":"Device for Depicting Prevailing Air Currents of the Earth",
+            "author":"Bertha O. Smith",
+            "folder":"smith",
+            "image":"smith.png",
+            "date":"1934",
+            "full_images":["smith_1.jpg","smith_2.jpg"],
+            "link":"https://patents.google.com/patent/US2105619A/en?q=%22Device+for+Depicting+Prevailing+Air+Currents+of+the+Earth%22&oq=%22Device+for+Depicting+Prevailing+Air+Currents+of+the+Earth%22"        
+        },
+        {
+            "id":31,
+            "name":"Improvement in Folding-Card Globes",
+            "author":"Dennis Townsend",
+            "folder":"townsend",
+            "image":"townsend.png",
+            "date":"1869",
+            "full_images":["townsend_1.jpg"],
+            "link":"https://patents.google.com/patent/US87082A/en?q=%22Improvement+in+Folding-Card+Globes%22&oq=%22Improvement+in+Folding-Card+Globes%22"        
+        },
+        {
+            "id":32,
+            "name":"Educational Device",
+            "author":"Shikanosuke Utsunomiya",
+            "folder":"utsunomiya",
+            "image":"utsunomiya.png",
+            "date":"1915",
+            "full_images":["utsunomiya_1.jpg"],
+            "link":"https://patents.google.com/patent/US1132409A/en?q=%22globe%22&inventor=%22utsunomiya%22&oq=%22utsunomiya%22+%22globe%22"        
+        },
+        {
+            "id":33,
+            "name":"Rubber Globe",
+            "author":"Elizabeth M. Walters",
+            "folder":"walters",
+            "image":"walters.png",
+            "date":"1922",
+            "full_images":["walters_1.jpg","walters_2.jpg"],
+            "link":"Link to full patent does not exist"        
+        },
+        {
+            "id":34,
+            "name":"Inflatable Globe and Process of Manufacturing Same",
+            "author":"George C. Wheat",
+            "folder":"wheat",
+            "image":"wheat.png",
+            "date":"1922",
+            "full_images":["wheat_1.jpg","wheat_2.jpg","wheat_3.jpg"],
+            "link":"https://patents.google.com/patent/US1798644A/en?q=%22Inflatable+Globe+and+Process+of+Manufacturing+Same%22&oq=%22Inflatable+Globe+and+Process+of+Manufacturing+Same%22+"        
+        },
+        {
+            "id":35,
+            "name":"Instrument for Locating Storm Zones",
+            "author":"Parvin Wright",
+            "folder":"wright",
+            "image":"wright.png",
+            "date":"1931",
+            "full_images":["wright_1.jpg","wright_2.jpg"],
+            "link":"https://patents.google.com/patent/US1836423A/en?q=globe&inventor=%22parvin+wright%22&oq=%22parvin+wright%22+globe"        
+        }
+    ]
+}

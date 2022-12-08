@@ -1,7 +1,7 @@
 {
     "globes":[
         {
-            "id":1,
+            "id":0,
             "name":"Illuminated Globe",
             "author":"Alexander S. Alexander",
             "folder":"alexander",
@@ -11,7 +11,7 @@
             "link":"https://patents.google.com/patent/US1515135A/en?q=illuminated+globe&inventor=alexander+s+alexander&oq=illuminated+globe+alexander+s+alexander"
         },
         {
-            "id":2,
+            "id":1,
             "name":"World Novelty",
             "author":"Leon Amdur",
             "folder":"amdur",
@@ -21,7 +21,7 @@
             "link":"https://patents.google.com/patent/US2175239A/en?q=world+novelty&inventor=leon+amdur&oq=leon+amdur+world+novelty"
         },
         {
-            "id":3,
+            "id":2,
             "name":"Improvement in Terrestrial Globes",
             "author":"George P. Clarke",
             "folder":"clarke",
@@ -31,7 +31,7 @@
             "link":"https://patents.google.com/patent/US69408A/en?q=clarke+improvement+in+%22terrestrial+globes%22&oq=clarke+improvement+in+%22terrestrial+globes%22"
         },
         {
-            "id":4,
+            "id":3,
             "name":"Tellurian",
             "author":"Thomas Costello",
             "folder":"costello",
@@ -41,7 +41,7 @@
             "link":"https://patents.google.com/patent/US69408A/en?q=clarke+improvement+in+%22terrestrial+globes%22&oq=clarke+improvement+in+%22terrestrial+globes%22"
         },
         {
-            "id":5,
+            "id":4,
             "name":"Educational Toy",
             "author":"Steve Damoff",
             "folder":"damoff",
@@ -51,7 +51,7 @@
             "link":"https://patents.google.com/patent/US1659810A/en?q=educational+toy&inventor=steve+damoff&oq=steve+damoff+educational+toy"        
         },
         {
-            "id":6,
+            "id":5,
             "name":"Educational Apparatus",
             "author":"Charlotte Flood",
             "folder":"flood",
